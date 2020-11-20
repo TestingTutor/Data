@@ -1,0 +1,63 @@
+﻿Study #,Group,Treatment,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12
+1,2,Conceptual,5,7,5,5,6,7,6,6,6,,,
+1,2,Conceptual,5,3,7,5,6,7,5,6,6,,,
+1,2,Conceptual,7,5,4,4,4,4,7,7,7,,,
+1,2,Conceptual,6,4,6,4,7,7,5,6,7,,,
+1,2,Conceptual,7,7,7,7,7,7,6,6,6,,,
+1,2,Conceptual,5,7,5,5,6,7,6,6,6,,,
+1,2,Conceptual,5,3,7,5,6,7,5,6,6,,,
+1,2,Conceptual,7,5,4,4,4,4,7,7,7,,,
+1,2,Conceptual,6,4,6,4,7,7,5,6,7,,,
+1,2,Conceptual,7,7,7,7,7,7,6,6,6,,,
+1,2,Conceptual,6,6,6,6,5,5,7,7,7,,,
+1,2,Conceptual,2,3,1,1,1,2,2,3,1,,,
+1,2,Conceptual,3,4,5,3,5,5,3,6,3,,,
+1,2,Conceptual,6,6,6,6,5,5,7,7,7,,,
+1,1,Detailed/Raw,2,3,1,1,1,2,2,3,1,,,
+1,1,Detailed/Raw,3,4,5,3,5,5,3,6,3,,,
+1,1,Detailed/Raw,6,6,6,6,5,5,7,7,,,,
+1,1,Detailed/Raw,2,3,1,1,1,2,2,3,,,,
+1,1,Detailed/Raw,3,4,5,3,5,5,3,6,,,,
+1,1,Detailed/Raw,6,6,6,6,5,5,7,7,,,,
+1,1,Detailed/Raw,2,3,1,1,1,2,2,3,,,,
+1,1,Detailed/Raw,3,4,5,3,5,5,3,6,,,,
+1,2,Conceptual,5,7,5,5,6,7,6,6,6,,,
+1,2,Conceptual,7,5,4,4,4,4,7,7,7,,,
+1,2,Conceptual,7,7,7,7,7,7,6,6,6,,,
+1,2,Conceptual,5,3,7,5,6,7,5,6,6,,,
+1,2,Conceptual,7,5,4,4,4,4,7,7,7,,,
+1,2,Conceptual,6,6,6,6,5,5,7,7,7,,,
+1,1,Detailed/Raw,6,6,6,6,5,5,7,7,,,,
+1,1,Detailed/Raw,2,3,1,1,1,2,2,3,,,,
+1,1,Detailed/Raw,6,6,6,6,5,5,7,7,,,,
+1,1,Detailed/Raw,2,3,1,1,1,2,2,3,,,,
+2,2,Conceptual,5,7,5,5,6,7,6,6,6,I was able to see the fact that there are some functions that I didn't think I needed to test since I thought they were very easily coded which meant that I wouldn't need to test them. ,"There wasn't specific instructions on what type of file had to be uploaded. For that reason, I received some errors since I uploaded my files but not in a zipped format.","Overall, everything was good but I would suggest for it to have some instructions in case someone didn't go to class and is trying to figure out the website by themselves. It doesn't need a lot of instructions because most of it doesn't need much pointers. "
+2,2,Conceptual,5,3,7,5,6,7,5,6,6,knowing what tests that haven't covered certain functions and seeing where errors might be showing up.,Knowing what to cover and all the functions and the functionality of the functions. Someone in the software testing would need to know the in and out of the program to fully test the program and cover most of the errors.,it is interesting for someone to test a lot of the functionality and hopefully cover everything in a short amount of time.
+2,2,Conceptual,7,5,4,4,4,4,7,7,7,Some of the most powerful learning moments in using Testing Tutor were the specific code coverage percentage and redundancy tests which allowed me to test out different testing strategies by writing as less code as possible trying to hit most (all) branches.,"Some of the most challenging moments were the machine error on the website which slowed down progress. However that is a fixable thing, which is good.",Most of my grades for 1 - 10 would increase if we had used Testing Tutor for longer periods of time.
+2,2,Conceptual,6,4,6,4,7,7,5,6,7,"Getting feed back right away and then being able to go and try to fix it, allowing for further feed back, helped to get more testing coverage.",I had a bit of a problem with the parser as i found that i have not dealt with them that much and found it difficult to right test for it. ,The only problem i had was with the redundant test count not seeming to react as expected with the test coverage. As i made more test the coverage did not go up but neither did the redundant tests. 
+2,2,Conceptual,7,7,7,7,7,7,6,6,6,completed the work,knowing when it's enough tests,n/a
+2,2,Conceptual,5,7,5,5,6,7,6,6,6,,,
+2,2,Conceptual,5,3,7,5,6,7,5,6,6,,,
+2,2,Conceptual,7,5,4,4,4,4,7,7,7,,,
+2,2,Conceptual,6,4,6,4,7,7,5,6,7,,,
+2,2,Conceptual,7,7,7,7,7,7,6,6,6,,,
+2,2,Conceptual,7,5,4,4,4,4,7,7,7,Some of the most powerful learning moments in using Testing Tutor were the specific code coverage percentage and redundancy tests which allowed me to test out different testing strategies by writing as less code as possible trying to hit most (all) branches.,"Some of the most challenging moments were the machine error on the website which slowed down progress. However that is a fixable thing, which is good.",Most of my grades for 1 - 10 would increase if we had used Testing Tutor for longer periods of time.
+2,2,Conceptual,5,7,5,5,6,7,6,6,6,,,
+2,2,Conceptual,6,4,6,4,7,7,5,6,7,,,
+2,1,Detailed/Raw,6,6,6,6,5,5,7,7,7,The feedback on tests reiterates what I was trying to accomplish or what I needed to focus on next time.,Trying to identify what should be tested and what type of test structure to build.,Nifty tool! Something like this for data structures would be awesome too. 
+2,1,Detailed/Raw,2,3,1,1,1,2,2,3,1,Having a site that can give feedback without having tools to build with.,Getting valuable feedback to help improve coverage,Perhaps this tool could be better used for testing after a student has learned about code coverage as they would see it in the real world. This way they can learn how to improve their skills before being pushed off into the deep end without getting feedback of what other areas they need to cover. 
+2,1,Detailed/Raw,3,4,5,3,5,5,3,6,3,"Once I received a coverage of 50% for the fourth test, I was very confused as to what I had not tested. I looked down at my list and at the test results and that's when I noticed that I had completely forgotten to test a class. When I tested the missing class and revised some of my earlier tests to be more comprehensive, my coverage only increased to the 70% range, and I was unsure as to why my tests were not sufficient. ","Jumping through the hoops to submit my code, and having compiler errors on the site added to the difficulty. Thankfully, the exception reports were generally helpful and more often than not I was able to amend my code to work on the Testing Tutor site. Occasionally I would encounter times when my submission would work correctly on my system but fail on the site, but through the exception reports and some intuition I was able to solve the problem.","I forgot to submit my tests to you, and will do so shortly
+"
+2,1,Detailed/Raw,6,6,6,6,5,5,7,7,7,,,
+2,1,Detailed/Raw,2,3,1,1,1,2,2,3,1,,,
+2,1,Detailed/Raw,3,4,5,3,5,5,3,6,3,,,
+2,1,Detailed/Raw,6,6,6,6,5,5,7,7,,,,
+2,1,Detailed/Raw,2,3,1,1,1,2,2,3,,,,
+2,1,Detailed/Raw,3,4,5,3,5,5,3,6,,,,
+2,1,Detailed/Raw,6,6,6,6,5,5,7,7,,,,
+2,1,Detailed/Raw,2,3,1,1,1,2,2,3,,,,
+2,1,Detailed/Raw,3,4,5,3,5,5,3,6,,,,
+2,1,Detailed/Raw,6,6,6,6,5,5,7,7,7,The feedback on tests reiterates what I was trying to accomplish or what I needed to focus on next time.,Trying to identify what should be tested and what type of test structure to build.,Nifty tool! Something like this for data structures would be awesome too. 
+2,1,Detailed/Raw,2,3,1,1,1,2,2,3,1,,,
+2,1,Detailed/Raw,2,3,1,1,1,2,2,3,,,,
+2,1,Detailed/Raw,3,4,5,3,5,5,3,6,,,,
